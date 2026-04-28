@@ -1,0 +1,33 @@
+2026-04-24 16:05:36 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-24 22:02:41 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-24 22:04:11 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-24 22:38:01 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-25 10:07:05 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-25 10:10:10 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-25 10:27:07 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-25 11:28:34 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-25 11:28:55 - INFO - TC_002_LoginTest - - - Login Test - - 
+2026-04-26 14:19:46 - INFO - TC_001_VerifyAccountRegistration - Launching browser: chrome
+2026-04-26 14:19:52 - INFO - TC_001_VerifyAccountRegistration - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-26 14:19:57 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-26 14:20:02 - INFO - TC_002_LoginTest - Launching browser: chrome
+2026-04-26 14:20:04 - INFO - TC_002_LoginTest - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-26 14:20:07 - INFO - TC_002_LoginTest - - - Login Test - - 
+2026-04-27 13:15:27 - INFO - TC_001_VerifyAccountRegistration - Launching browser: chrome
+2026-04-27 13:15:46 - INFO - TC_001_VerifyAccountRegistration - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-27 13:15:57 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-27 13:16:26 - INFO - TC_002_LoginTest - Launching browser: chrome
+2026-04-27 13:16:28 - INFO - TC_002_LoginTest - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-27 13:16:38 - INFO - TC_002_LoginTest - - - Login Test - - 
+2026-04-27 13:54:17 - INFO - TC_001_VerifyAccountRegistration - Launching browser: chrome
+2026-04-27 13:54:20 - INFO - TC_001_VerifyAccountRegistration - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-27 13:54:34 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-27 13:54:47 - INFO - TC_002_LoginTest - Launching browser: chrome
+2026-04-27 13:54:49 - INFO - TC_002_LoginTest - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-27 13:55:02 - INFO - TC_002_LoginTest - - - Login Test - - 
+2026-04-27 14:02:30 - INFO - TC_001_VerifyAccountRegistration - Launching browser: chrome
+2026-04-27 14:02:32 - INFO - TC_001_VerifyAccountRegistration - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-27 14:02:51 - INFO - TC_001_VerifyAccountRegistration - Test case is started
+2026-04-27 14:03:11 - INFO - TC_002_LoginTest - Launching browser: chrome
+2026-04-27 14:03:12 - INFO - TC_002_LoginTest - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
+2026-04-27 14:03:29 - INFO - TC_002_LoginTest - - - Login Test - - 
