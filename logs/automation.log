@@ -31,3 +31,10 @@
 2026-04-27 14:03:11 - INFO - TC_002_LoginTest - Launching browser: chrome
 2026-04-27 14:03:12 - INFO - TC_002_LoginTest - Opening URL: https://parabank.parasoft.com/parabank/index.htm;
 2026-04-27 14:03:29 - INFO - TC_002_LoginTest - - - Login Test - - 
+2026-04-30 23:33:28 - INFO - TC_005_LoginTestGTPL - Launching browser: chrome
+2026-04-30 23:33:37 - INFO - TC_005_LoginTestGTPL - Opening URL: https://demo.guru99.com/V1/index.php
+2026-04-30 23:34:15 - INFO - TC_005_LoginTestGTPL - Test case started
+2026-04-30 23:34:30 - INFO - TC_005_LoginTestGTPL - Login test passed
+2026-04-30 23:34:31 - INFO - TC_004_AddNewCustomer - Launching browser: chrome
+2026-04-30 23:34:33 - INFO - TC_004_AddNewCustomer - Opening URL: https://demo.guru99.com/V1/index.php
+2026-04-30 23:35:07 - INFO - TC_004_AddNewCustomer - Test case is started 

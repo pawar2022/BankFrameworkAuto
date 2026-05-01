@@ -5,20 +5,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_002_LoginTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="verifyLogin"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC_002_LoginTest -->
-      <class name="testCases.TC_001_VerifyAccountRegistration">
+      <class name="testCases.TC_004_AddNewCustomer">
         <methods>
           <include name="teardown"/>
           <include name="setup"/>
-          <include name="verifyaccountregistration"/>
+          <include name="addnewcustomer"/>
         </methods>
-      </class> <!-- testCases.TC_001_VerifyAccountRegistration -->
+      </class> <!-- testCases.TC_004_AddNewCustomer -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
